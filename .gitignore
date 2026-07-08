@@ -2,6 +2,8 @@
 classes/
 *.iml
 
+.vscode/
+
 .settings/
 bin/
 
